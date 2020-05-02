@@ -1,0 +1,2 @@
+# javascript_practice
+这是配合B站视频的练习，请不要提交任何的修改代码申请
